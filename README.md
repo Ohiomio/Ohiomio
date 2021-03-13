@@ -1,4 +1,4 @@
-# Moin <img src="https://raw.githubusercontent.com/realohio/realohio/readme/wave.gif" width="30px">
+# Moin <img src="https://raw.githubusercontent.com/Ohiomio/Ohiomio/readme/wave.gif" width="30px">
 Ich bin RealOhio :)
 
 
